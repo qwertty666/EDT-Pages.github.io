@@ -1,1 +1,1 @@
-# EDT-Pages.github.io
+# EDTPages.github.io
